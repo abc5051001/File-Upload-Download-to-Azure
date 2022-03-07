@@ -1,2 +1,1 @@
-# File-Upload-Download-to-Azure
-File Upload/Download to Azure
+# File upload with ASP.NET Core Web API.
