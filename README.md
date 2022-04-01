@@ -11,6 +11,13 @@ Project is created with:
 * Azure.Storage.Blobs version: 1.1.1
 * Microsoft.Extensions.Azure version: 999
 * Swashbuckle.AspNetCore version: 6.2.3
+## Setup
+To run this project, install the following packages:
+
+```
+$ Install-package Azure.Storage.Blobs
+$ Install-package Microsoft.Extensions.Azure
+```
 ## Demo
 <p> This code is intended to merge with ASP.NET web app which consists frontend and database to store the metadata as the following. </p>
 
