@@ -3,6 +3,12 @@
 [Demo](#Demo)  
 [Instructions](#Instructions)  
 <a name="headers"/>
+## Technologies
+Project is created with:
+* Net version: 6.0
+* Azure.Storage.Blobs version: 1.1.1
+* Microsoft.Extensions.Azure version: 999
+* Swashbuckle.AspNetCore version: 6.2.3
 ## Demo
 <p> This code is intended to merge with ASP.NET web app which consists frontend and database to store the metadata as the following. </p>
 
