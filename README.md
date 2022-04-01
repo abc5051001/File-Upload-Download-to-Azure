@@ -3,6 +3,8 @@
 [Demo](#Demo)  
 [Instructions](#Instructions)  
 <a name="headers"/>
+## General info
+This project is to upload and download Files to Azure Blobs as well as extracting the metadata.
 ## Technologies
 Project is created with:
 * Net version: 6.0
